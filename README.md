@@ -1,2 +1,2 @@
-# Go-To-Task
-This is a web application of Go-To-Task to note down our works
+To-Do-List
+This is a web application of To-Do-List to note down our works
